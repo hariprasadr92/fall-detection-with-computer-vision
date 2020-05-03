@@ -1,4 +1,4 @@
-# face-and-eye-detection
+# Human fall detection with computer vision
 Client-server model to detect human fall detection using OpenPose computer vision library
 
 ## About project 
